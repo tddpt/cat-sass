@@ -18,7 +18,7 @@ const IndexPage = () => {
         </p>
         <h1>Gatsby Sass Starter</h1>
         <p>
-          Welcome to your new Gatsby fart
+          Welcome to your new Gatsby fart space.
         </p>
         <p>
           Now go build something great.
